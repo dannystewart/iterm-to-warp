@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "iterm-to-warp"
+version = "0.1.0"
+description = "Convert an iTerm theme to a Warp theme"
+authors = ["Danny Stewart <danny@stewart.cc>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+PyYAML = "^6.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

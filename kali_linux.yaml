@@ -1,0 +1,24 @@
+accent: '#6ba4f8'
+background: '#131418'
+details: darker
+foreground: '#e6e6e6'
+name: Kali Linux
+terminal_colors:
+  bright:
+    black: '#3e8186'
+    blue: '#417df6'
+    cyan: '#479ef0'
+    green: '#72d1b9'
+    magenta: '#8a32bc'
+    red: '#d82e20'
+    white: '#feffff'
+    yellow: '#ef903b'
+  normal:
+    black: '#1f2128'
+    blue: '#4879e8'
+    cyan: '#64abe0'
+    green: '#76baab'
+    magenta: '#8e58ad'
+    red: '#c23127'
+    white: '#e6e6e6'
+    yellow: '#f1a85d'
